@@ -8,6 +8,7 @@ export function Footer() {
             className="grey-text text-lighten-4 right" 
             href="https://github.com/fckzor/react-movies"
             target="_blank"
+            rel="noreferrer"
           >
               Repo
           </a>

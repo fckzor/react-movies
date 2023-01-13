@@ -9,6 +9,7 @@ export function Header() {
               <a
                 href="https://github.com/fckzor/react-movies"
                 target="_blank"
+                rel="noreferrer"
               >
                 Repo
               </a>
